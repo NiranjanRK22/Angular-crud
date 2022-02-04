@@ -1,0 +1,59 @@
+{
+  "productList": [
+    {
+      "productName": "mobile",
+      "category": "Electronics",
+      "freshness": "Brand new",
+      "price": 20000,
+      "comment": "dual camera",
+      "date": "2022-02-08T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "apple",
+      "category": "Fruits",
+      "freshness": "Refurbished",
+      "price": 25,
+      "comment": "good taste",
+      "date": "2022-02-21T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "earphones",
+      "category": "Electronics",
+      "freshness": "Second Hand",
+      "price": 500,
+      "comment": "boat with good bass",
+      "date": "2022-02-22T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "potato",
+      "category": "Vegetables",
+      "freshness": "Refurbished",
+      "price": 50,
+      "comment": "afsa",
+      "date": "2022-02-14T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "laptop",
+      "category": "Electronics",
+      "freshness": "Brand new",
+      "price": 30000,
+      "comment": "ascasc",
+      "date": "2022-02-14T18:30:00.000Z",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
